@@ -7,7 +7,7 @@ import lombok.*;
 @AllArgsConstructor
 @NoArgsConstructor
 @ToString
-public class SuperAdminLoginRequest {
+public class JwtRequest {
     private String email;
     private String password;
 
