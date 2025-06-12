@@ -1,6 +1,5 @@
-package com.superadmin.security;
+package com.superadmin.jwt;
 
-import com.superadmin.service.JwtService;
 import com.superadmin.service.SuperAdminService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

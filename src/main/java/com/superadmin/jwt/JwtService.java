@@ -1,4 +1,4 @@
-package com.superadmin.service;
+package com.superadmin.jwt;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

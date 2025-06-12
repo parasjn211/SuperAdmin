@@ -1,6 +1,6 @@
 package com.superadmin.config;
 
-import com.superadmin.security.JwtAuthFilter;
+import com.superadmin.jwt.JwtAuthFilter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
